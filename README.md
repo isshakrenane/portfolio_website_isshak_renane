@@ -4,7 +4,7 @@
 
 ## 🚀 Live Site
 
-**View My Live Portfolio Here:** [**[https://isshakrenane.github.io/portfolio_website_isshak_renane/]**](https://isshakrenane.github.io/portfolio_website_isshak_renane/)
+**View My Live Portfolio Here:** [**[https://isshakrenane.github.io/]**](https://isshakrenane.github.io/)
 
 ---
 
